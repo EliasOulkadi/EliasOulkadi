@@ -35,7 +35,12 @@ Full CRUD API with JWT auth and a clean, documented layered architecture.
 
 - Hands-on experience building and repairing computers and electronics
 - Basic web security knowledge (Burp Suite, OWASP, TryHackMe)
-- Professional video editing (DaVinci Resolve, Premiere Pro, After Effects)
+
+## Video editing
+
+I've been editing video for years at a professional level — not as a side hobby, as a real skill. I work with DaVinci Resolve, Adobe Premiere Pro and After Effects on a daily basis. I've produced content that reached tens of thousands of views, and I handle the full production pipeline: footage selection, cut, color grading, motion graphics and export.
+
+Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Lightroom` `Cinema 4D`
 
 ## Courses
 
