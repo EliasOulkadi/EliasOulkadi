@@ -56,6 +56,8 @@ Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Light
 | Cisco Networking Academy | Introduction to Networks |
 | TryHackMe | Cybersecurity Training Path |
 
+https://portafolio-elias-snowy.vercel.app/#stack
+
 ---
 
 📬 **Let's talk** → [LinkedIn](#) · [Email](#)
