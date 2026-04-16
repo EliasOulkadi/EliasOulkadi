@@ -6,6 +6,14 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ---
 
+## 🚀 Founder of [Cyberian](https://cyberian.vercel.app/)
+
+The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
+
+Currently iterating and adding new features.
+
+---
+
 ## Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,24 +27,6 @@ Looking for my first dev role — open to junior positions, internships or freel
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Projects
-
-### 🔒 [Cyberian](https://cyberian.vercel.app/)
-![Cyberian Preview](https://github.com/EliasOulkadi/EliasOulkadi/blob/main/cyberian.png?raw=true)
-
-The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
-
-- 🛠️ **Stack**: React, Node.js, Express, Python
-- 🚧 **Status**: Active development
-
-### Full Stack App
-Web app built with React + Node.js/Express, JWT authentication and a relational database.
-
-### REST API
-Full CRUD API with JWT auth and a clean, documented layered architecture.
 
 ---
 
@@ -69,4 +59,4 @@ Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Light
 
 ---
 
-📬 **Let's talk** → [LinkedIn](#) · [Email](mailto:oulkadi.elias8@icloud.com)
+📬 **Let's talk** → [Email](mailto:oulkadi.elias8@icloud.com)
