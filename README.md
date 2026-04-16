@@ -6,14 +6,6 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ---
 
-## 🚀 I'm building [Cyberian](https://cyberian.vercel.app/)
-
-**CEO & Founder** — The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
-
-Built from scratch in 2 days. Full-stack SaaS with React, Node.js, Express, and Python.
-
----
-
 ## Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,14 +24,13 @@ Built from scratch in 2 days. Full-stack SaaS with React, Node.js, Express, and 
 
 ## Projects
 
-### 🔒 [Cyberian](https://cyberian.vercel.app/) — CEO & Founder
+### 🔒 [Cyberian](https://cyberian.vercel.app/)
 ![Cyberian Preview](https://github.com/EliasOulkadi/EliasOulkadi/blob/main/cyberian.png?raw=true)
 
 The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
 
 - 🛠️ **Stack**: React, Node.js, Express, Python
-- 🚧 **Status**: Active development (2-day MVP, iterating in public)
-- 🎯 **Role**: Founder, full-stack developer, product designer
+- 🚧 **Status**: Active development
 
 ### Full Stack App
 Web app built with React + Node.js/Express, JWT authentication and a relational database.
