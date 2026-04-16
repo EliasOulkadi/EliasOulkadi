@@ -6,10 +6,18 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ---
 
+## 🚀 I'm building [Cyberian](https://cyberian.vercel.app/)
+
+**CEO & Founder** — The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
+
+Built from scratch in 2 days. Full-stack SaaS with React, Node.js, Express, and Python.
+
+---
+
 ## Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -24,13 +32,14 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ## Projects
 
-### 🔒 Cyberian (Work in Progress)
+### 🔒 [Cyberian](https://cyberian.vercel.app/) — CEO & Founder
 ![Cyberian Preview](https://github.com/EliasOulkadi/EliasOulkadi/blob/main/cyberian.png?raw=true)
 
 The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
 
 - 🛠️ **Stack**: React, Node.js, Express, Python
-- 🚧 **Status**: Active development
+- 🚧 **Status**: Active development (2-day MVP, iterating in public)
+- 🎯 **Role**: Founder, full-stack developer, product designer
 
 ### Full Stack App
 Web app built with React + Node.js/Express, JWT authentication and a relational database.
@@ -65,8 +74,8 @@ Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Light
 | Cisco Networking Academy | Introduction to Networks |
 | TryHackMe | Cybersecurity Training Path |
 
-https://portafolio-elias-snowy.vercel.app 
+[Portfolio](https://portafolio-elias-snowy.vercel.app)
 
 ---
 
-📬 **Let's talk** → [LinkedIn](#) · [Email](#)
+📬 **Let's talk** → [LinkedIn](#) · [Email](mailto:oulkadi.elias8@icloud.com)
