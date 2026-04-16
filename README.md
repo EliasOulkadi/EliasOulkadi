@@ -11,6 +11,7 @@ Looking for my first dev role — open to junior positions, internships or freel
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -22,6 +23,14 @@ Looking for my first dev role — open to junior positions, internships or freel
 ---
 
 ## Projects
+
+### 🔒 Cyberian (en desarrollo)
+![Cyberian Preview](https://github.com/EliasOulkadi/EliasOulkadi/blob/main/cyberian.png?raw=true)
+
+The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
+
+- 🛠️ **Stack**: React, Node.js, Express, Python
+- 🚧 **Estado**: En desarrollo activo
 
 ### Full Stack App
 Web app built with React + Node.js/Express, JWT authentication and a relational database.
@@ -56,7 +65,7 @@ Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Light
 | Cisco Networking Academy | Introduction to Networks |
 | TryHackMe | Cybersecurity Training Path |
 
-https://portafolio-elias-snowy.vercel.app/#stack
+https://portafolio-elias-snowy.vercel.app/#stack 
 
 ---
 
