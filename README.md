@@ -24,13 +24,13 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ## Projects
 
-### 🔒 Cyberian (en desarrollo)
+### 🔒 Cyberian (Work in Progress)
 ![Cyberian Preview](https://github.com/EliasOulkadi/EliasOulkadi/blob/main/cyberian.png?raw=true)
 
 The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
 
 - 🛠️ **Stack**: React, Node.js, Express, Python
-- 🚧 **Estado**: En desarrollo activo
+- 🚧 **Status**: Active development
 
 ### Full Stack App
 Web app built with React + Node.js/Express, JWT authentication and a relational database.
