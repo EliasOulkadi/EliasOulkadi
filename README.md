@@ -11,6 +11,7 @@ Looking for my first dev role — open to junior positions, internships or freel
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -18,6 +19,20 @@ Looking for my first dev role — open to junior positions, internships or freel
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Currently Working On
+
+### 🔒 Cyberian
+![Cyberian Preview](https://github.com/tu-usuario/tu-repo/blob/main/assets/cyberian-screenshot.png?raw=true)
+
+&gt; **The Lighthouse for REST APIs.**  
+&gt; Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
+
+- 🛠️ Tech stack: *(añade aquí las tecnologías que estás usando)*
+- 🎯 Focus: API security scanning, automated quality checks
+- 🔗 [View Demo](#) · [GitHub](#)
 
 ---
 
@@ -56,7 +71,7 @@ Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Light
 | Cisco Networking Academy | Introduction to Networks |
 | TryHackMe | Cybersecurity Training Path |
 
-https://portafolio-elias-snowy.vercel.app/#stack
+https://portafolio-elias-snowy.vercel.app/#stack 
 
 ---
 
