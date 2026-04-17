@@ -59,4 +59,4 @@ Tools: `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photoshop` `Light
 
 ---
 
-📬 **Let's talk** → [Email](mailto:oulkadi.elias8@icloud.com)
+**For business inquiries, please email me at oulkadielias8@icloud.com**
