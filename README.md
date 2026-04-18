@@ -10,7 +10,7 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
 
-**Built entirely from scratch** — 100% solo project. I designed and coded every single part: the complete UI/UX, frontend architecture, backend infrastructure, API logic, database design, and all the security analysis algorithms. No templates, no boilerplate, no external teams. Just me, my code, and a lot of coffee.
+**Built entirely from scratch** — 100% solo project. I designed and coded every single part: the complete UI/UX, frontend architecture, backend infrastructure, API logic, database design, and all the security analysis algorithms.
 
 Currently iterating and adding new features.
 
