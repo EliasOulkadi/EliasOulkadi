@@ -6,7 +6,7 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ---
 
-## 🚀 Founder [Cyberian](https://cyberian.online/)
+## 🚀 Founder of [Cyberian](https://cyberian.online/)
 
 The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
 
