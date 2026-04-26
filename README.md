@@ -6,16 +6,6 @@ Looking for my first dev role — open to junior positions, internships or freel
 
 ---
 
-## 🚀 Founder of [Cyberian](https://cyberian.online/)
-
-The Lighthouse for REST APIs. Scan any endpoint and get an instant quality score with actionable security, performance, and design recommendations.
-
-**Built entirely from scratch** — 100% solo project. I designed and coded every single part: the complete UI/UX, frontend architecture, backend infrastructure, API logic, database design, and all the security analysis algorithms.
-
-Currently iterating and adding new features.
-
----
-
 ## Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
