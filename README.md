@@ -1,6 +1,6 @@
 # Hey, I'm Elias 👋
 
-Junior Full Stack Developer. Self-taught — I got into web development on my own and kept going until I could build and ship real things. Along the way I picked up systems, networking and some web security too.
+Junior Full Stack Developer. Self-taught I got into web development on my own and kept going until I could build and ship real things. Along the way I picked up systems, networking and some web security too.
 
 Looking for my first dev role — open to junior positions, internships or freelance.
 
