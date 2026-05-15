@@ -1,8 +1,8 @@
 # Hey, I'm Elias 👋
 
-Self-taught developer. I built [Shokunin](https://github.com/EliasOulkadi/shokunin) — an AI engineering ecosystem with multi-strategy memory (vector + BM25 + temporal search), used daily by developers for persistent AI context.
+Self-taught developer. I built [Shokunin](https://github.com/EliasOulkadi/shokunin): an AI engineering ecosystem with multi-strategy memory (vector + BM25 + temporal search). 38 skills. 8 MCP tools. Used daily by developers who want persistent AI context between sessions.
 
-Also: professional video editor. DaVinci Resolve, Premiere Pro, After Effects. Hundreds of thousands of views.
+I also edit video professionally. DaVinci Resolve, Premiere Pro, After Effects, Cinema 4D. Full production pipeline: footage selection, color grading, motion graphics, export. Content that reached hundreds of thousands of views.
 
 [![Shokunin CI](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml) &nbsp; [![Stars](https://img.shields.io/github/stars/EliasOulkadi/shokunin?style=social)](https://github.com/EliasOulkadi/shokunin)
 
@@ -25,31 +25,28 @@ Also: professional video editor. DaVinci Resolve, Premiere Pro, After Effects. H
 
 ---
 
-### Shokunin in detail
-
-38 skills, 8 MCP tools, 25/25 healthcheck, 5 passing pytest tests. Python scripts pass ruff (zero errors). Runs on 6 platforms. The white paper in the repo.
+### About Shokunin
 
 ```
-vector search + BM25 keyword + temporal filter → reciprocal rank fusion
-session list / continue / save with automatic text parsing
-24 components tracked in a declarative manifest with drift detection
+vector search + BM25 keyword + temporal filter → reciprocal rank fusion.
+session list / continue / save with automatic text parsing.
+24 tracked components in a declarative manifest.
+25/25 healthcheck. 5 pytest tests. ruff: zero errors.
 ```
+
+The white paper with architecture and Hindsight comparison lives in the repo.
+
+Idea: a friend mentioned Hindsight on GitHub. I looked at their codebase. Took the multi-strategy recall concept and built it without LLM dependency per operation: zero servers, zero API calls, ChromaDB local storage. The paper explains every choice.
 
 ---
-
-### Video
-
-Full production pipeline — footage selection, color grading, motion graphics, export. DaVinci Resolve, Premiere Pro, After Effects, Photoshop, Cinema 4D.
 
 ### Systems
 
-Computer building and repair. Burp Suite, OWASP, TryHackMe. Cisco Networking Academy.
+Computer building and repair. Burp Suite, OWASP, TryHackMe. Cisco Networking Academy: Introduction to Networks.
 
 ---
 
-### Courses
-
-freeCodeCamp — JavaScript, Back End, Relational DB, Information Security &middot; The Odin Project — Full Stack JavaScript &middot; Udemy — React, Node.js/Express &middot; Cisco — Introduction to Networks &middot; TryHackMe — Cybersecurity
+Taught myself everything you're reading. freeCodeCamp (JavaScript, Back End, Relational DB, InfoSec). The Odin Project (Full Stack JS). Udemy (React, Node.js). TryHackMe (Cybersecurity).
 
 ---
 
