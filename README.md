@@ -1,6 +1,6 @@
 # Hey, I'm Elias 👋
 
-Self-taught developer. I built [Shokunin](https://github.com/EliasOulkadi/shokunin): an AI engineering ecosystem with multi-strategy memory (vector + BM25 + temporal search). 38 skills. 8 MCP tools. Used daily by developers who want persistent AI context between sessions.
+Self-taught developer. I built [Shokunin](https://github.com/EliasOulkadi/shokunin): an AI engineering ecosystem with multi-strategy memory (vector + BM25 + temporal search). 38 skills. 8 MCP tools. Also built [cyberian](https://github.com/EliasOulkadi/cyberian): an API security scanner with AI-powered vulnerability detection.
 
 I also edit video professionally. DaVinci Resolve, Premiere Pro, After Effects, Cinema 4D. Full production pipeline: footage selection, color grading, motion graphics, export. Content that reached hundreds of thousands of views.
 
@@ -28,15 +28,13 @@ I also edit video professionally. DaVinci Resolve, Premiere Pro, After Effects, 
 ### About Shokunin
 
 ```
-vector search + BM25 keyword + temporal filter → reciprocal rank fusion.
-session list / continue / save with automatic text parsing.
-24 tracked components in a declarative manifest.
-25/25 healthcheck. 5 pytest tests. ruff: zero errors.
+vector search + BM25 keyword + temporal filter → reciprocal rank fusion
+session list / continue / save with automatic text parsing
+24 tracked components in a declarative manifest
+25/25 healthcheck · 5 pytest tests · ruff: zero errors
 ```
 
-The white paper with architecture and Hindsight comparison lives in the repo.
-
-Idea: a friend mentioned Hindsight on GitHub. I looked at their codebase. Took the multi-strategy recall concept and built it without LLM dependency per operation: zero servers, zero API calls, ChromaDB local storage. The paper explains every choice.
+Someone on GitHub pointed me to Hindsight. I read their paper. Took the multi-strategy recall idea and rebuilt it for a local-first setup: no servers, no API calls, no PostgreSQL. Everything runs on ChromaDB. The white paper in the repo breaks it down side by side.
 
 ---
 
@@ -46,7 +44,7 @@ Computer building and repair. Burp Suite, OWASP, TryHackMe. Cisco Networking Aca
 
 ---
 
-Taught myself everything you're reading. freeCodeCamp (JavaScript, Back End, Relational DB, InfoSec). The Odin Project (Full Stack JS). Udemy (React, Node.js). TryHackMe (Cybersecurity).
+freeCodeCamp (JavaScript, Back End, Relational DB, InfoSec). The Odin Project (Full Stack JS). Udemy (React, Node.js). TryHackMe (Cybersecurity).
 
 ---
 
