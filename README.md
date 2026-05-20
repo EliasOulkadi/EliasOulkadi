@@ -4,7 +4,7 @@ Self-taught developer. I built [Shokunin](https://github.com/EliasOulkadi/shokun
 
 I also edit video professionally. DaVinci Resolve, Premiere Pro, After Effects, Cinema 4D. Full production pipeline: footage selection, color grading, motion graphics, export. Content that reached hundreds of thousands of views.
 
-[![Shokunin CI](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml) &nbsp; [![Stars](https://img.shields.io/github/stars/EliasOulkadi/shokunin?style=social)](https://github.com/EliasOulkadi/shokunin)
+[![Shokunin CI](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml)
 
 ---
 
