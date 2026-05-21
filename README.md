@@ -2,7 +2,7 @@
 
 Self-taught developer. I built [Shokunin](https://github.com/EliasOulkadi/shokunin): an AI engineering ecosystem with multi-strategy memory (vector + BM25 + temporal search). 62 skills. 9 MCP tools. Also built [Cyberian](https://cyberian.online): an API security scanner with AI-powered vulnerability detection.
 
-I also edit video professionally. DaVinci Resolve, Premiere Pro, After Effects, Cinema 4D. Full production pipeline: footage selection, color grading, motion graphics, export. Content that reached hundreds of thousands of views.
+I also edit video. DaVinci Resolve, Premiere Pro, After Effects, Cinema 4D. Full production pipeline: footage selection, color grading, motion graphics, export. Content that reached hundreds of thousands of views.
 
 [![Shokunin CI](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasOulkadi/shokunin/actions/workflows/ci.yml)
 
