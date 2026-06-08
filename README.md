@@ -23,15 +23,6 @@ I also edit video. DaVinci Resolve, Premiere Pro, After Effects, Cinema 4D. Full
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-### About Shokunin
-
-```
-vector search + BM25 keyword + temporal filter → reciprocal rank fusion
-session list / continue / save with automatic text parsing
-24 tracked components in a declarative manifest
-25/25 healthcheck · 5 pytest tests · ruff: zero errors
 ```
 
 Someone on GitHub pointed me to Hindsight. I read their paper. Took the multi-strategy recall idea and rebuilt it for a local-first setup: no servers, no API calls, no PostgreSQL. Everything runs on ChromaDB. The white paper in the repo breaks it down side by side.
